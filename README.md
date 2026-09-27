@@ -351,18 +351,6 @@ A full-stack college fee management platform designed to simplify payments and a
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=krishpinninti789&theme=tokyo-night&hide_border=true&area=true&custom_title=KrishnaVamsi%20Pinninti's%20Contribution%20Activity"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
