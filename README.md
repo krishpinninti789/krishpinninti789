@@ -355,7 +355,14 @@ A full-stack college fee management platform designed to simplify payments and a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishpinninti789&theme=tokyo-night&hide_border=true&area=true"/>
+<a href="https://github.com/krishpinninti789">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=krishpinninti789&theme=tokyo-night&hide_border=true&area=true"
+  alt="KrishnaVamsi Pinninti's GitHub Activity Graph"
+/>
+
+</a>
 
 </div>
 
