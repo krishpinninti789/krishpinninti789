@@ -308,7 +308,6 @@ Payments
 </picture>
 
 </div>
----
 
 # 🤝 Let's Connect
 
