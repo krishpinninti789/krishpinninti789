@@ -1,356 +1,290 @@
-<!-- ======================= HERO ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=KrishnaVamsi%20Pinninti&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=E6EDF3"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:111827,100:1E3A5F&text=KrishnaVamsi%20Pinninti&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&descColor=CBD5E1"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%F0%9F%9A%80;AI+%7C+Real-Time+Systems+%7C+Performance;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+Ideas+Into+Products+%F0%9F%92%A1" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;AI+%7C+Real-time+Systems+%7C+Performance;Turning+Ideas+Into+Products+%F0%9F%92%A1;Always+Learning.+Always+Building." />
-
-<br/><br/>
-
 <a href="https://github.com/krishpinninti789">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/krishnavamsipinninti">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+&nbsp;
+<a href="mailto:krishpinninti789@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="mailto:krishpinninti789@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
+
+---
+
+## ⚡ Core Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,tailwind,redux,firebase,git,github,jest" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=krishpinninti789&style=for-the-badge&color=58A6FF"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Razorpay-3395FF?style=flat-square"/>
 
 </div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
+I'm a **Software Engineer** who enjoys building products that are scalable, performant and genuinely useful.
 
-I'm a **Software Engineer** who enjoys turning ideas into reliable, scalable and user-focused software.
+My experience spans **web applications, real-time systems, AI-powered products, REST APIs, authentication, payments, databases and performance engineering**.
 
-My experience spans **web applications, real-time systems, AI-powered products, REST APIs, authentication, payments, databases and performance optimization**.
+I've worked on production healthcare software supporting thousands of daily online consultations, contributing to real-time chat, video consultations, consultation summaries, digital prescriptions and doctor availability systems.
 
-I've worked on production healthcare systems supporting thousands of daily online consultations, contributing to workflows involving **real-time chat, video consultations, consultation summaries, digital prescriptions and doctor availability management**.
+I enjoy going beyond simply implementing features — I like understanding **how systems work, where they can fail, and how they can be made better.**
 
-I also enjoy building products from scratch and exploring how different pieces of a system fit together.
-
-<div align="center">
-
-### 🧠 `Think → Design → Build → Measure → Improve`
-
-</div>
+> **Think deeply. Build cleanly. Measure everything.**
 
 ---
 
-# 🟢 Currently Building
+# 🚀 Currently Building
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=600&lines=%E2%96%B6+Building+YouTube+Clone;%E2%96%B6+Exploring+Next.js+Architecture;%E2%96%B6+Improving+Frontend+Performance;%E2%96%B6+Learning+System+Design" />
+### 🎬 YouTube Clone
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=EF4444&center=true&vCenter=true&width=600&lines=%E2%97%89+Currently+Building;%E2%97%89+Next.js+App+Router;%E2%97%89+YouTube+Data+API;%E2%97%89+Infinite+Scrolling;%E2%97%89+Performance+%26+Architecture" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
 </div>
 
-## 🎬 YouTube Clone
+A YouTube-inspired video platform built to explore real-world application architecture.
 
-A YouTube-inspired video platform built with **Next.js and YouTube Data API**, focused on exploring real-world frontend architecture and application behavior.
+**Built around:**
 
-### ⚡ Features
+`Search` · `Infinite Scroll` · `Video Playback` · `Related Videos` · `Categories` · `API Routes` · `Loading States` · `Network Handling` · `Responsive UI`
 
-|     |                            |
-| --- | -------------------------- |
-| 🔎  | Video search               |
-| ♾️  | Infinite scrolling         |
-| 🎥  | Video playback             |
-| 📺  | Related videos             |
-| 🏷️ | Category discovery         |
-| 💀  | Skeleton loading           |
-| 🌐  | Network/offline handling   |
-| ⚡   | Optimized API interactions |
-| 🧩  | Reusable components        |
-| 🌙  | Dark-mode UI               |
-| 📱  | Responsive design          |
-| 🖼️ | Optimized images           |
+---
 
-### 🔥 Architecture
+# 💼 Featured Projects
 
-```text
-                       ┌───────────────────────┐
-                       │       Next.js         │
-                       │      App Router       │
-                       └───────────┬───────────┘
-                                   │
-                   ┌───────────────┴───────────────┐
-                   │                               │
-                   ▼                               ▼
-          Server Components                 Client Components
-                   │                               │
-                   │                    ┌──────────┴──────────┐
-                   │                    │                     │
-                   │                  Search             Video Lists
-                   │                    │                     │
-                   └────────────────────┴─────────────────────┘
-                                        │
-                                        ▼
-                                API Route Layer
-                                        │
-                                        ▼
-                               YouTube Data API
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+## 📰 AI News Summarizer
 
-`⚡ Rendering` `🔄 Caching` `♾️ Pagination` `🌐 APIs` `🏗️ Architecture`
+**Next.js · TypeScript · OpenAI**
 
-</div>
+An AI-powered platform that converts lengthy news content into concise, actionable summaries.
+
+**Impact**
+
+⚡ **80% reduction** in reading time
+
+🤖 AI-powered summarization
+
+📝 Concise bullet-point insights
+
+🚀 Built & deployed with Next.js
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎓 GradeLens
+
+**Next.js · TypeScript · OpenAI · Clerk**
+
+AI-powered academic analysis that processes student report cards and generates personalized insights.
+
+**Impact**
+
+⚡ **90% reduction** in manual analysis
+
+📄 Automated PDF reports
+
+⏱️ **5 hrs/week saved** per class
+
+🔐 Secure authentication
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 💳 College Fee Management
+
+**Next.js · MongoDB · Razorpay**
+
+Full-stack fee management platform for students and administrators.
+
+**Impact**
+
+👥 **500+ users**
+
+⚡ **80% less** manual processing
+
+💳 Secure online payments
+
+📈 **70% faster** reconciliation
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏥 Healthcare Platform
+
+**Next.js · Expo · Tailwind · Pusher · Agora**
+
+Production healthcare application supporting thousands of daily consultations.
+
+**Worked on**
+
+💬 Real-time chat
+
+🎥 Video consultations
+
+💊 Digital prescriptions
+
+🟢 Doctor availability
+
+</td>
+</tr>
+</table>
+
+The AI News Summarizer, GradeLens and College Fee Management projects are documented in my resume with measurable outcomes including reduced reading/analysis time, automated PDF generation, payment processing improvements and support for 500+ users.
 
 ---
 
 # 🏢 Production Engineering
 
-## 🏥 MediBuddy
+### MediBuddy · Engineering Team
 
-Worked on a production healthcare application using **Next.js, Expo and Tailwind CSS**, supporting thousands of daily online consultations.
+Worked on production healthcare software using **Next.js, Expo and Tailwind CSS**, supporting thousands of daily online consultations.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Production_System-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Real--Time-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Healthcare-2EA44F?style=for-the-badge"/>
+`Pusher`   `Agora`   `REST APIs`   `State Management`   `Performance`
 
 </div>
 
-### 🔧 Systems I've Worked On
+**Engineering contributions**
 
-```text
-                         🏥 Healthcare Platform
-                                  │
-            ┌─────────────────────┼─────────────────────┐
-            │                     │                     │
-            ▼                     ▼                     ▼
-       💬 Real-time           🎥 Video              📝 Consultation
-          Chat               Consultation              Flow
-            │                     │                     │
-            └─────────────────────┼─────────────────────┘
-                                  │
-                    ┌─────────────┼─────────────┐
-                    ▼             ▼             ▼
-                📋 Summary    💊 Prescription   🟢 Availability
-                                                   │
-                                                   ▼
-                                            Auto Assignment
-```
-
-### ⚙️ Engineering Contributions
-
-* 💬 Real-time patient chat using **Pusher**
-* 🎥 Video consultations using **Agora**
-* 📝 Consultation summary workflows
-* 💊 Digital prescription management
-* 🟢 Doctor Online/Offline availability
+* 💬 Real-time patient communication
+* 🎥 Video consultation workflows
+* 📝 Consultation summaries
+* 💊 Digital prescriptions
+* 🟢 Real-time doctor availability
 * 🔄 REST API integrations
-* ⚡ State-management and frontend performance improvements
-* 🐛 Production issue investigation
-* 🤝 Cross-functional engineering collaboration
+* ⚡ Frontend performance improvements
+* 🐛 Production debugging & issue resolution
 
-These workflows supported an average of approximately **1,800 consultations**, within a platform handling thousands of daily consultations.
+The consultation workflow improvements supported an average of approximately **1,800 consultations**.
 
 ---
 
-# 🚀 Featured Projects
-
-## 📰 AI-Powered News Summarizer
+# 🧠 What I Care About
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🏗️
+
+**Architecture**
+
+Scalable systems
+Clean abstractions
+API design
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Performance**
+
+Core Web Vitals
+Caching
+Rendering
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+AI products
+OpenAI
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Systems**
+
+Real-time
+Authentication
+Payments
+
+</td>
+</tr>
+</table>
 
 </div>
 
-An AI-powered platform designed to transform lengthy news content into concise summaries.
-
-**Highlights**
-
-* 🤖 OpenAI-powered summarization
-* 📝 Concise bullet-point summaries
-* ⚡ Approximately **80% reduction in reading time**
-* 📈 Improved content consumption
-* 🚀 Built with Next.js and TypeScript
-
 ---
 
-## 🎓 GradeLens
+# 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-SDK-412991?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+`System Design`   `Advanced Next.js`   `DSA`   `Backend Architecture`   `AI Engineering`
 
 </div>
 
-An AI-powered academic analysis platform that processes student report cards and generates personalized performance insights.
-
-**Highlights**
-
-* 🤖 AI-powered report-card analysis
-* 📊 Automated performance analysis
-* 📝 Personalized insights
-* 📄 One-click PDF generation
-* 🔐 Clerk authentication
-* ⚡ Approximately **90% reduction in manual analysis**
-* ⏱️ Saved educators approximately **5 hours/week per class**
-
 ---
 
-## 💳 College Fee Management System
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge"/>
+<img src="https://github-readme-stats.shion.dev/api?username=krishpinninti789&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165"/>
 
-</div>
-
-A full-stack college fee management platform designed to simplify payments and administrative workflows.
-
-**Highlights**
-
-* 👨‍🎓 Student dashboards
-* 👨‍💼 Admin dashboards
-* 🔐 Role-based authentication
-* 🔒 Bcrypt password hashing
-* 💳 Razorpay integration
-* 🧾 Automated invoice generation
-* 👥 500+ users
-* ⚡ Up to **80% reduction in manual payment processing**
-* 📈 Approximately **70% faster payment reconciliation**
-
----
-
-# 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
+<img src="https://streak-stats.demolab.com/?user=krishpinninti789&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
 
-### ⚛️ Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
-
-<br/><br/>
-
-### 🗄️ Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,gcp" />
-
-<br/><br/>
-
-### 🧪 Engineering Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,jest,jenkins,vscode" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`TanStack Query` • `Redux` • `REST APIs` • `OpenAI` • `Pusher` • `Agora` • `Razorpay`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishpinninti789&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 
 ---
-
-# 🧠 What I Like Exploring
-
-<div align="center">
-
-| 🏗️ Architecture |  ⚡ Performance  |     🤖 AI    |     🌐 Systems    |
-| :--------------: | :-------------: | :----------: | :---------------: |
-|   Scalable Apps  | Core Web Vitals |    AI APIs   |     REST APIs     |
-|   System Design  |       LCP       | AI Workflows | Real-time Systems |
-|    Clean Code    |     Caching     |  Automation  |   Authentication  |
-| Component Design |  Code Splitting |  AI Products |      Payments     |
-
-</div>
-
----
-
-# 🎯 My Current Learning Path
-
-```text
-                         SOFTWARE ENGINEERING
-                                  │
-             ┌────────────────────┼────────────────────┐
-             ▼                    ▼                    ▼
-          FRONTEND              BACKEND           ARCHITECTURE
-             │                    │                    │
-             ▼                    ▼                    ▼
-       React / Next.js          Node.js           System Design
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  │
-                                  ▼
-                         SCALABLE APPLICATIONS
-                                  │
-                                  ▼
-                           AI ENGINEERING
-                                  │
-                                  ▼
-                         BETTER SOFTWARE 🚀
-```
-
----
-
-# 💭 Engineering Philosophy
-
-<div align="center">
-
-### `Don't just make it work. Understand why it works.`
-
-### `Don't optimize blindly. Measure first.`
-
-### `Don't just build features. Build systems.`
-
-### `Keep learning. Keep shipping.`
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=krishpinninti789&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=krishpinninti789&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=krishpinninti789&theme=tokyonight&hide_border=true&layout=compact&count_private=false"/>
-
-</div>
-
----
-
 
 # 🐍 Contribution Snake
 
@@ -359,17 +293,15 @@ A full-stack college fee management platform designed to simplify payments and a
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/krishpinninti789/krishpinninti789/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/krishpinninti789/krishpinninti789/output/github-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/krishpinninti789/krishpinninti789/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/krishpinninti789/krishpinninti789/output/github-snake.svg"
   />
-
   <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/krishpinninti789/krishpinninti789/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/krishpinninti789/krishpinninti789/output/github-snake.svg"
   />
 </picture>
 
@@ -382,29 +314,29 @@ A full-stack college fee management platform designed to simplify payments and a
 <div align="center">
 
 <a href="https://github.com/krishpinninti789">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/krishnavamsipinninti">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:krishpinninti789@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
 
-### ⚡ Build → Learn → Measure → Improve → Repeat
-
-</div>
+### `Build → Learn → Measure → Improve → Repeat`
 
 <br/>
 
-<!-- ======================= FOOTER ======================= -->
+<img src="https://komarev.com/ghpvc/?username=krishpinninti789&style=flat-square&color=58A6FF"/>
+
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:1E3A5F&height=120&section=footer"/>
 
 </div>
