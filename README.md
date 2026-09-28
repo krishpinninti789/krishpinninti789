@@ -298,32 +298,112 @@ Scalability
 
 </div>
 
-Worked on production healthcare software using **Next.js, Expo and Tailwind CSS**, supporting thousands of daily online consultations.
+Worked on production healthcare software using **Next.js, Expo and Tailwind CSS**, supporting thousands of daily online consultations and business-critical healthcare workflows.
 
 ### 🔧 Systems
 
 <table>
 <tr>
-<td align="center">💬<br/><b>Real-Time Chat</b><br/>Pusher</td>
-<td align="center">🎥<br/><b>Video</b><br/>Agora</td>
-<td align="center">📝<br/><b>Consultations</b><br/>Workflow</td>
-<td align="center">💊<br/><b>Prescriptions</b><br/>Digital</td>
-<td align="center">🟢<br/><b>Availability</b><br/>Real-Time</td>
+<td align="center">💬<br/><b>Real-Time Chat</b><br/><sub>Pusher</sub></td>
+<td align="center">🎥<br/><b>Video Consultations</b><br/><sub>Agora</sub></td>
+<td align="center">📝<br/><b>Consultation Workflow</b><br/><sub>End-to-End</sub></td>
+<td align="center">💊<br/><b>Digital Prescriptions</b><br/><sub>Healthcare</sub></td>
+<td align="center">🟢<br/><b>Doctor Availability</b><br/><sub>Real-Time</sub></td>
+<td align="center">📊<br/><b>Google Analytics</b><br/><sub>Web Analytics</sub></td>
+<td align="center">⚡<br/><b>Page Performance</b><br/><sub>Core Web Vitals</sub></td>
+<td align="center">🏆<br/><b>Lighthouse</b><br/><sub>Performance Audits</sub></td>
 </tr>
 </table>
 
-### Engineering Contributions
+### ⚡ Engineering Contributions
 
-* Real-time patient communication
-* Video consultation workflows
-* Consultation summaries
-* Digital prescription management
-* Doctor Online / Offline availability
-* REST API integrations
-* State management improvements
-* Frontend performance optimization
-* Production debugging
-* Cross-functional engineering
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 Performance Engineering
+
+* Reduced **LCP from ~16s → ~3s** through critical rendering path optimization.
+* Implemented **code splitting** to reduce unnecessary JavaScript during initial page load.
+* Introduced **lazy loading** for non-critical bundles and components.
+* Optimized **script loading strategies** to prioritize critical resources and defer non-essential execution.
+* Improved frontend rendering and overall production page performance.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🔎 SEO Engineering
+
+* Improved **SEO content architecture** across city and speciality-specific pages.
+* Added **structured data / schema markup** to improve search-engine understanding.
+* Enhanced page metadata and content relevance for search-driven pages.
+* Updated **sitemap structures and URL patterns** for improved crawlability and discoverability.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🏥 Healthcare Workflows
+
+* Built and enhanced **real-time patient communication** workflows.
+* Contributed to **video consultation** and consultation-summary flows.
+* Implemented **digital prescription management** workflows.
+* Improved **doctor Online / Offline availability** with real-time state updates.
+* Integrated and consumed **REST APIs** across production workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 💼 Business Systems
+
+* Contributed to a production **Claims & Reimbursement Portal**.
+* Supported workflows across **multiple corporate entities**.
+* Implemented entity-specific business requirements and claim-handling flows.
+* Worked on production issues, debugging, and cross-functional engineering requirements.
+* Contributed to frontend architecture, state management, and scalable feature development.
+
+</td>
+</tr>
+</table>
+
+### 📊 Performance Impact
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<h3>16s → ~3s</h3>
+<sub><b>LCP Improvement</b></sub>
+</td>
+
+<td align="center">
+<h3>⚡</h3>
+<sub><b>Code Splitting</b></sub>
+</td>
+
+<td align="center">
+<h3>📦</h3>
+<sub><b>Lazy Loaded Bundles</b></sub>
+</td>
+
+<td align="center">
+<h3>🔎</h3>
+<sub><b>SEO + Schema</b></sub>
+</td>
+
+<td align="center">
+<h3>🏢</h3>
+<sub><b>Multi-Entity Claims</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
